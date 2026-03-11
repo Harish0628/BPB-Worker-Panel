@@ -2,3 +2,7 @@ name = "warp-alt"
 main = "dist/worker.js"
 compatibility_date = "2024-05-01"
 workers_dev = true
+
+[[kv_namespaces]]
+binding = "kv"
+id = "3553f4b0fed54c6c8efa76083b8a9ac6"
